@@ -19,5 +19,4 @@ sizes:
 styles:
   - name: Green
     color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
----
+    ![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://imgd.aeplcdn.com/1056x594/n/cw/ec/40087/thar-exterior-right-front-three-quarter-11.jpeg?q=75&wm=1))
