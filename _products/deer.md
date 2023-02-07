@@ -8,7 +8,7 @@ description_markdown: >-
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: '9000'
 sku: deer
 stock: 10
 sizes:
@@ -19,7 +19,7 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.jpg
+    image: https://cdn.pixabay.com/photo/2019/06/13/13/19/vehicles-4271608__480.png
   - name: Blue
     color: '#39589e'
     image: /images/products/deer/blue.jpg
